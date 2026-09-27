@@ -5,9 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tersiqo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tersiqo.alfarezel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Malang%2C%20Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  📍 Malang, Indonesia &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tersiqo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"/>
+  </a> 
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:tersiqo.alfarezel@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="24" height="24" style="vertical-align: middle;"/>
+  </a>
 </p>
 
 ---

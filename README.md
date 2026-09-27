@@ -1,6 +1,11 @@
 # 💫 About Me:
 Tersiqo Alfarezel<br>Malang, Indonesia <br>Business Information Systems student at Politeknik Negeri Malang with a background in Network Engineering (TKJ). Skilled in cross-platform mobile development (Flutter), relational database management (MySQL/PostgreSQL), and backend data integration. Adept at technical problem-solving, collaborative system design, and translating complex business requirements into functional software architectures.<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tersiqo/tersiqo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tersiqo/tersiqo/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/tersiqo/tersiqo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/536072553706291200) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/terziqo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tersiqo-Alfarezel) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@terssiqo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tersiqo.alfarezel@gmail.com) 

@@ -21,9 +21,10 @@
 
 - 🎓 Currently pursuing **Applied Bachelor's (D4) in Business Information Systems** at **Politeknik Negeri Malang**.
 - 🔌 Strong technical foundation in **Cloud Computing (TKJ)** from **Telkom School Malang**.
-<!-- - 💼 Working as **Finance & Operations Support Specialist** at CV Bintang Selaras Abadi. -->
 - 📱 Passionate about **Cross-Platform Mobile Development (Flutter)**, **Relational Databases (MySQL/PostgreSQL)**, and **Backend Architecture**.
 - 🎯 Experienced in translating complex business requirements into scalable, functional software solutions.
+<!-- - 💼 Working as **Finance & Operations Support Specialist** at CV Bintang Selaras Abadi. -->
+
 
 ---
 
